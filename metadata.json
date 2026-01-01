@@ -1,0 +1,5 @@
+{
+  "name": "Sky Pilot: Ring Challenge",
+  "description": "A high-octane 2D side-scrolling flight game where you navigate an aeroplane through golden rings while avoiding collisions. Features smooth canvas animations, parallax backgrounds, and AI-powered flight reports.",
+  "requestFramePermissions": []
+}
